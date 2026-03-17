@@ -27,6 +27,7 @@ A structured collection of markdown files explaining the features, architecture,
 - [Gemini Series](llms/models/gemini-series.md)
 
 #### Features & Capabilities
+- [How an LLM Processes User Input](llms/features/input-processing.md)
 - [Context Windows](llms/features/context-window.md)
 - [Prompting Techniques](llms/features/prompting.md)
 - [Tool Use & Function Calling](llms/features/tool-use.md)
