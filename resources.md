@@ -87,6 +87,7 @@ A curated collection of key papers, resources, and tools for learning about LLMs
 
 | Source | Focus |
 |---|---|
+| [AI Weekly](https://aiweekly.co/) | Models, agents, research, funding, and policy ranked from expert-reading signals |
 | [Lilian Weng's Blog (lilianweng.github.io)](https://lilianweng.github.io/) | Deep dives on LLMs, RL, diffusion |
 | [Sebastian Raschka's Magazine](https://magazine.sebastianraschka.com/) | LLM training, fine-tuning |
 | [The Batch (deeplearning.ai)](https://www.deeplearning.ai/the-batch/) | Weekly AI news |
